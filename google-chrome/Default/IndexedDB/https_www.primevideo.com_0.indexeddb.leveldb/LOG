@@ -1,0 +1,6 @@
+2022/06/12-02:20:40.106 1d33 Creating DB /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb since it was missing.
+2022/06/12-02:20:40.115 1d33 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/12-02:20:46.414 1d33 Level-0 table #5: started
+2022/06/12-02:20:46.416 1d33 Level-0 table #5: 1309 bytes OK
+2022/06/12-02:20:46.420 1d33 Delete type=0 #3
+2022/06/12-02:20:46.420 1d33 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

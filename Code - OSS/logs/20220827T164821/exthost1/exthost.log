@@ -1,0 +1,29 @@
+[2022-08-27 16:48:26.293] [exthost] [info] Extension host with pid 21229 started
+[2022-08-27 16:48:26.293] [exthost] [info] Skipping acquiring lock for /home/woshyy/.config/Code - OSS/User/workspaceStorage/1ec492ca470b0326febd51644e2424bf.
+[2022-08-27 16:48:26.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-27 16:48:26.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-27 16:48:26.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-27 16:48:26.518] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-08-27 16:48:26.869] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-27 16:48:27.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-27 16:48:27.111] [exthost] [info] Eager extensions activated
+[2022-08-27 16:48:27.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-27 16:48:27.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-27 16:55:14.146] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-27 16:55:14.146] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-27 16:55:14.163] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-08-27 16:55:14.163] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:1,$model1) has been disposed"}
+[2022-08-27 16:55:15.733] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-27 16:55:16.203] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'M'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at /home/woshyy/.vscode-oss/extensions/vscodevim.vim-1.23.1/src/register/register.ts:333:16
+    at process.async (node:internal/process/task_queues:96:5)
+    at Object.e.deactivate (/home/woshyy/.vscode-oss/extensions/vscodevim.vim-1.23.1/extension.ts:64:8)
+    at async Promise.all (index 7)
+    at w._deactivateAll (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:97:10669)
+[2022-08-27 16:55:16.203] [exthost] [info] Extension host with pid 21229 exiting with code 0

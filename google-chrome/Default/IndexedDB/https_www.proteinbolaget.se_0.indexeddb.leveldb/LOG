@@ -1,0 +1,6 @@
+2022/08/27-12:26:51.341 2df8 Creating DB /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.proteinbolaget.se_0.indexeddb.leveldb since it was missing.
+2022/08/27-12:26:51.350 2df8 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.proteinbolaget.se_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/27-12:35:03.138 344e Level-0 table #5: started
+2022/08/27-12:35:03.141 344e Level-0 table #5: 1841 bytes OK
+2022/08/27-12:35:03.145 344e Delete type=0 #3
+2022/08/27-12:35:03.145 344e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

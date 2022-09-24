@@ -1,0 +1,30 @@
+2022/09/17-15:20:05.210 571 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/17-15:20:05.211 571 Recovering log #1040
+2022/09/17-15:20:05.211 571 Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001040.log 
+2022/09/17-15:25:28.554 562 Level-0 table #1045: started
+2022/09/17-15:25:28.582 562 Level-0 table #1045: 1069153 bytes OK
+2022/09/17-15:25:28.590 562 Delete type=0 #1040
+2022/09/17-15:28:11.413 c2b Compacting 1@1 + 1@2 files
+2022/09/17-15:28:11.426 c2b Generated table #1046@1: 843 keys, 126795 bytes
+2022/09/17-15:28:11.426 c2b Compacted 1@1 + 1@2 files => 126795 bytes
+2022/09/17-15:28:11.432 c2b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/17-15:28:11.432 c2b Delete type=2 #1042
+2022/09/17-15:28:11.432 c2b Delete type=2 #1045
+2022/09/17-16:14:26.747 1a03 Level-0 table #1048: started
+2022/09/17-16:14:26.774 1a03 Level-0 table #1048: 1367448 bytes OK
+2022/09/17-16:14:26.779 1a03 Delete type=0 #1044
+2022/09/17-16:17:06.283 1a03 Compacting 1@1 + 1@2 files
+2022/09/17-16:17:06.307 1a03 Generated table #1049@1: 974 keys, 140739 bytes
+2022/09/17-16:17:06.307 1a03 Compacted 1@1 + 1@2 files => 140739 bytes
+2022/09/17-16:17:06.312 1a03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/17-16:17:06.312 1a03 Delete type=2 #1046
+2022/09/17-16:17:06.312 1a03 Delete type=2 #1048
+2022/09/17-16:34:57.961 248f Level-0 table #1051: started
+2022/09/17-16:34:57.976 248f Level-0 table #1051: 1154787 bytes OK
+2022/09/17-16:34:57.982 248f Delete type=0 #1047
+2022/09/17-16:39:06.421 2095 Compacting 1@1 + 1@2 files
+2022/09/17-16:39:06.436 2095 Generated table #1052@1: 1060 keys, 136356 bytes
+2022/09/17-16:39:06.436 2095 Compacted 1@1 + 1@2 files => 136356 bytes
+2022/09/17-16:39:06.439 2095 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/17-16:39:06.440 2095 Delete type=2 #1051
+2022/09/17-16:39:06.440 2095 Delete type=2 #1049

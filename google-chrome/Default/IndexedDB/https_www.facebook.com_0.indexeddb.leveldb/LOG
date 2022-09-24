@@ -1,0 +1,6 @@
+2022/09/02-20:59:54.825 24da Creating DB /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2022/09/02-20:59:54.843 24da Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/02-21:00:26.911 258d Level-0 table #5: started
+2022/09/02-21:00:26.915 258d Level-0 table #5: 1941 bytes OK
+2022/09/02-21:00:26.919 258d Delete type=0 #3
+2022/09/02-21:00:26.919 258d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

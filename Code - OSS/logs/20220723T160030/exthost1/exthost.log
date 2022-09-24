@@ -1,0 +1,11 @@
+[2022-07-23 16:00:34.323] [exthost] [info] Extension host with pid 23549 started
+[2022-07-23 16:00:34.323] [exthost] [info] Skipping acquiring lock for /home/woshyy/.config/Code - OSS/User/workspaceStorage/e82a42320c3255b9ec44120f8bbb5a5c.
+[2022-07-23 16:00:34.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-23 16:00:34.444] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-23 16:00:34.450] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-23 16:00:34.458] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-07-23 16:00:35.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-23 16:00:35.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-23 16:00:35.260] [exthost] [info] Eager extensions activated
+[2022-07-23 16:00:35.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-23 16:00:35.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

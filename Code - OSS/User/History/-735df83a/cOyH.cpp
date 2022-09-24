@@ -1,0 +1,86 @@
+#include <stdio.h>
+#include <iostream>
+
+#define ONE_DAY_IN_SEC 86400
+#define ONE_HOUR_IN_SEC 3600
+#define ONE_MINUTE_IN_SEC 60
+
+using namespace std;
+
+int main() {
+    int amount_competitors = 0;
+    int winner_number = -1;
+    int best_time = ONE_DAY_IN_SEC;
+
+    while (true) {
+        int runner_number;
+        cout << "Startnummer? ";
+        cin >> runner_number;
+
+        if (runner_number < 1) break;
+
+        //Increase the amount of competitors because we got a valid runner_number i.e runner_number > 0.
+        ++amount_competitors;
+
+        //Taking in start time.
+        int start_time_hour, start_time_minute, start_time_second, start_time;
+        cout << "Starttid? ";
+        cin >> start_time_hour >> start_time_minute >> start_time_second;
+        start_time = start_time_hour * ONE_HOUR_IN_SEC + start_time_minute * ONE_MINUTE_IN_SEC + start_time_second;
+
+        //Taking in finish time.
+        int finish_time_hour, finish_time_minute, finish_time_second, finish_time;
+        cout << "Måltid? ";
+        cin >> finish_time_hour >> finish_time_minute >> finish_time_second;
+        finish_time = finish_time_hour * ONE_HOUR_IN_SEC + finish_time_minute * ONE_MINUTE_IN_SEC + finish_time_second;
+
+        int current_time = finish_time - current_time;
+        //Calculating the current run minute.
+        current_time_second = finish_time_second - start_time_second;
+        //If the second is minus than we need to decrease the minute by one and add 60 to the seconds.
+        if (current_time_second < 0) {
+            current_time_second += 60;
+            --current_time_minute;
+        }
+
+        //Calculating the current run minute.
+        current_time_minute = current_time_minute + finish_time_minute - start_time_minute;
+        //If the minute is minus than we need to decrease the hour by one and add 60 to the minute.
+        if (current_time_minute < 0) {
+            current_time_minute += 60;
+            --current_time_hour;
+        }
+
+
+        //Calculating the current run hour.
+        current_time_hour = current_time_hour + finish_time_hour - start_time_hour;
+        //If the hour is minus than we add 24 because we have gone from 23 hour to something smaller like 01 hour.
+        if (current_time_hour < 0) {
+            current_time_hour += 24;
+        }
+
+        //Check if the current time is better than the previous time.
+        //If the current time is better then we update the best time and best runner with the current timer and current runner number.
+        if (current_time_hour <= best_time_hour && 
+            current_time_minute <= best_time_minute && 
+            current_time_second && best_time_second) {
+            winner_number = runner_number;
+            best_time_hour = current_time_hour;
+            best_time_minute = current_time_minute;
+            best_time_second = current_time_second;
+        }
+    }
+
+    //If there were competitors added to the race then we print out "normally" otherwise we output "no competitors."
+    if (amount_competitors > 0) {
+        cout << "Vinnaren är startnr: " << winner_number << endl;
+        cout << "Tim: " << best_time_hour << " Min: " << best_time_minute << " Sek: " << best_time_second << endl;
+        cout << "Antal tävlande: " << amount_competitors << endl;
+    }
+    else {
+        cout << "Inga tävlande" << endl;
+    }
+
+    cout << "Programmet avslutas" << endl;
+    return 0;
+}

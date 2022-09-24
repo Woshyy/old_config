@@ -1,0 +1,62 @@
+{
+   "checksum": "d2702b3daaed823482136fd2c7ad5d75",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13299804126400750",
+            "guid": "5ce618b7-08a0-4cec-8982-802091c49459",
+            "id": "5",
+            "name": "",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/list_of_applications"
+         }, {
+            "date_added": "13300854485397561",
+            "guid": "a7c3d685-70a4-41da-9efb-d24ed64c20ab",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "https://www.reddit.com/r/ManjaroLinux/comments/8r5sd4/manjaro_i3_login_wallpaper/"
+         }, {
+            "date_added": "13307400689910769",
+            "guid": "f42283ad-7ae6-419e-a51f-b9548ee1bed4",
+            "id": "9",
+            "name": "",
+            "type": "url",
+            "url": "https://cloud.timeedit.net/liu/web/schema/ri167XQQ065Z50Qm37020gZ6y1Y7304Q6Y93Y4.html"
+         }, {
+            "date_added": "13307886607473323",
+            "guid": "46f13175-acdc-4f70-a77f-df93becf65d2",
+            "id": "11",
+            "name": "(87) How to Dual Boot Arch Linux and Windows 11/10 [ 2022 ] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=JRdYSGh-g3s&t=551s"
+         } ],
+         "date_added": "13298649820179581",
+         "date_modified": "13307886607473323",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13298649820179584",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13298649820179585",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CsABCp8BCIiBAhKYARI8CAISOAoGCgJibRABEDMaEgmAxHeWRekFACGAxHeWRekFADIYChYIAhGg+XSnRekFABgAIQAAAAAAAAAAIABIsNGyrrYwcO20vaO1MJIBRwpFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCQAd/KJF6QUAEQAd/KJF6QUAKU6Od6dF6QUAMIC68JfaqPoCEgAgASoYZzM2TUVtM0l1YmFuei9FdDMrM0N2QT09EuwBCAsS5wEKHFpNV1o4ejJPaFBqcGtWSU93Rm5ISlFoS2xJST0SZlo6QURxdEFaelJveHpRa3dhOWlHcXJTcVRObnlSMHhObjV3T0V6dER4Z00yZk9WalZZY1pKWWN2T3ZpWC9mOVE4N1VVOGVqMktoQ25kZ0dZK3A0OWU1d3hMTnM1V0IvWGhkM0E9PRgAIAIoAjCy7I2VkJz6Ajjy6JDZtDBAkbyj4LQwShxObFUyWkdSR3gwMXRBUHVDZVBaTnlDb2F1anM9Wh8iHbxzNzZKcWV6NitYZVpFclN5c3gxRzhBblRYRDQ9ZTj5OTMSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp4R09penpjQXpSVjBNeUowWnljWWZIallHVnRnM29SUjZibVdGM2lOLzNwRSsvM043MkMxUlRPV0M5SDduNXAyWjVPNmQzWTVPS3FiTWIwWlFwbE93UTRyVVZudz09GAAgACgAMMjtt/LujvgCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5SHlmSDdObDhwNzJLc0lvOGprdG5iSEhhN203S0w5aVd5azNwRXpseUJJYjlkTDlma2lNbFVWZjVkRDNrczkvdmNvcHlhGAAgACgAMMjtt/LujvgCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS6wEIBRLmAQocb3ZyRXBlZnJMdG1yY2pqbW4rbzJYSE0xeEY0PRJmWjpBRHF0QVp6Um94elFrd2E5aUdxclNxVE5ueVIwcGlvaFJNQzJhVHAxdUdiNU1vU1JFdVRKTXY4Z1kyWDNhNmIzY01wMEp1NzZBbU9tcU9SR0tiTjdidDRod2NBbnFpTFFMZz09GAAgAygDMLLsjZWQnPoCOMipjcuWMECRvKPgtDBKHHlCL3Q3cU9FM3BlM25DTlpIT3JHdmZMa0FxTT1aHiIcMk9UMEJpNFcyQVloMkRNckxxRU8zQjg3UlRjPWVLYQq7EusBCAcS5gEKHElRZngvdGZSbkFjSVI2OXVkQlVGc3UydFJsWT0SZlo6QURxdEFaelJveHpRa3dhOWlHcXJTcVRObnlSMEc4N2JIRDJvc3ZNTjUyOUNhYTI1bWgyV1NYM21RSEw4a0E4dUVFR2tvSlNuTTN2QWxmeFZCOVU3UUZtNE84OFhrZU9Jb0E9PRgAIAMoAzCy7I2VkJz6AjiWk/q/mjBAkbyj4LQwShxtZVNpTDZGRXUxeGpndE42c2FLVlFyOHZtYVU9Wh4iHG5SM09sNTNkVDdUbCtPYldiY2pEcXJTYkhnVT1ldtEJAhLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnhFc0VqZFp1b0xjU3lmTlU1SXEwNzJ3VVFGRERlSW5USk5IWEFsdVJyRjRxQ1Yycm5zR1hNaE5vbldrZU1FVHFwRHRwV042RW45L0kxV1lPR1ZJUHBJemlHMUNBPT0YACAAKAAwyO238u6O+AI4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLrAQgJEuYBChxUR3FiOTd1WVZDTUtKeHM5ZU9VaXU2RXBiclU9EmZaOkFEcXRBWnpSb3h6UWt3YTlpR3FyU3FUTm55UjBXMkg5Q3QyTTVZNFlUdjFkQU5TUnpNeXNCdWJDWTI3b0wzN1gzY2FYbnZiS24zMlZhQnhEOWVPMWlLUWJlaGdHR0lETXNBPT0YACAAKAAwsuyNlZCc+gI49+G28bIwQJG8o+C0MEoccm52TkpETnc5N3MvRDNvQWJBckx4TFRMck00PVoeIhx4TXJ5Q3B3VTVFYTcwRGdRSjE0QmVyemdRZUk9ZfPVMYUwATgA",
+   "version": 1
+}

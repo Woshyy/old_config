@@ -1,0 +1,80 @@
+###############
+# Test data 1 #
+###############
+
+Startnummer? 33
+Starttid? 17 30 15
+Måltid? 18 22 35
+Startnummer? -1
+Vinnaren är startnr: 33
+Tim: 0 Min: 52 Sek: 20
+Antal tävlande: 1
+Programmet avslutas
+
+###############
+# Test data 2 #
+###############
+
+Startnummer? 33
+Starttid? 00 30 15
+Måltid? 19 22 35
+Startnummer? -1
+Vinnaren är startnr: 33
+Tim: 18 Min: 52 Sek: 20
+Antal tävlande: 1
+Programmet avslutas
+
+###############
+# Test data 3 #
+###############
+
+Startnummer? 33
+Starttid? 17 30 15
+Måltid? 18 22 35
+Startnummer? 14
+Starttid? 23 35 00
+Måltid? 0 12 24
+Startnummer? 26
+Starttid? 10 11 12
+Måltid? 20 21 22
+Startnummer? -1
+Vinnaren är startnr: 14
+Tim: 0 Min: 37 Sek: 24
+Antal tävlande: 3
+Programmet avslutas
+
+###############
+# Test data 4 #
+###############
+
+Startnummer? 14
+Starttid? 23 35 00
+Måltid? 0 12 24
+Startnummer? 26
+Starttid? 10 11 12
+Måltid? 20 21 22
+Startnummer? 33
+Starttid? 17 30 15
+Måltid? 18 22 35
+Startnummer? -1
+Vinnaren är startnr: 14
+Tim: 0 Min: 37 Sek: 24
+Antal tävlande: 3
+Programmet avslutas
+
+###############
+# Test data 5 #
+###############
+###############
+# Test data 6 #
+###############
+###############
+# Test data 7 #
+###############
+
+###############
+# Test data 8 #
+###############
+###############
+# Test data 9 #
+###############

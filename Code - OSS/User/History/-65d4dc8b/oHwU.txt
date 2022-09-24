@@ -1,0 +1,41 @@
+###############
+# Test data 1 #
+###############
+
+Programmet kommer att be om två siffor och en operation där den kommer att returnera resultatet när operationen
+är utförd på alla tal mellan de angivna siffrorna och de angivna siffrorna.
+De givna talen behöver inte vara i storleksordingen.
+op:
+a = addera
+m = multiplicera
+k = kvadratsumman
+Skriv en av talgränsen: 3
+Skriv en av talgränsen: 5
+
+a = addera
+m = multiplicera
+k = kvadratsumman
+Skriv ett operation: a
+Resultatet är 12
+
+###############
+# Test data 2 #
+###############
+###############
+# Test data 3 #
+###############
+###############
+# Test data 4 #
+###############
+###############
+# Test data 5 #
+###############
+###############
+# Test data 6 #
+###############
+###############
+# Test data 7 #
+###############
+###############
+# Test data 8 #
+###############

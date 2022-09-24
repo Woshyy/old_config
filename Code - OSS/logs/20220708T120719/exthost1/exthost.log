@@ -1,0 +1,15 @@
+[2022-07-08 12:07:23.569] [exthost] [info] Extension host with pid 2034 started
+[2022-07-08 12:07:23.569] [exthost] [info] Skipping acquiring lock for /home/woshyy/.config/Code - OSS/User/workspaceStorage/e82a42320c3255b9ec44120f8bbb5a5c.
+[2022-07-08 12:07:23.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-08 12:07:23.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-08 12:07:23.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-08 12:07:23.734] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-07-08 12:07:23.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-08 12:07:23.951] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-08 12:07:24.018] [exthost] [info] Eager extensions activated
+[2022-07-08 12:07:24.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-08 12:07:24.070] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-08 13:53:59.969] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-08 13:53:59.969] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-08 13:53:59.995] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-07-08 13:53:59.995] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:1,$model8) has been disposed"}

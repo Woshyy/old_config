@@ -1,0 +1,6 @@
+2022/09/24-19:28:02.737 5 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/24-19:28:02.739 5 Recovering log #768
+2022/09/24-19:28:02.742 5 Reusing old log /home/woshyy/.config/google-chrome/Default/Local Storage/leveldb/000768.log 
+2022/09/24-19:29:03.454 5 Level-0 table #772: started
+2022/09/24-19:29:03.465 5 Level-0 table #772: 25730 bytes OK
+2022/09/24-19:29:03.473 5 Delete type=0 #768

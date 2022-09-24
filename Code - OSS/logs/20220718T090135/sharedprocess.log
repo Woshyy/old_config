@@ -1,0 +1,8 @@
+[2022-07-18 09:01:39.951] [sharedprocess] [info] Starting worker process with pid 1732 (type: fileWatcher, window: 1).
+[2022-07-18 09:01:43.865] [sharedprocess] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-07-18 09:01:46.638] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-07-18 09:01:48.883] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/woshyy/.config/Code - OSS/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.22.1
+[2022-07-18 09:01:49.130] [sharedprocess] [info] Extracted extension to /home/woshyy/.vscode-oss/extensions/.5376ca4f-8359-4292-8b3e-0aab74572b08: ms-azuretools.vscode-docker
+[2022-07-18 09:01:49.139] [sharedprocess] [info] Renamed to /home/woshyy/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.22.1
+[2022-07-18 09:01:49.144] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-07-18 09:01:49.153] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker

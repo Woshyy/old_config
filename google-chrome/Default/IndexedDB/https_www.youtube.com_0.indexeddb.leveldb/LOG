@@ -1,0 +1,12 @@
+2022/09/17-16:57:47.805 520 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/17-16:57:47.806 520 Recovering log #1050
+2022/09/17-16:57:47.822 520 Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001050.log 
+2022/09/18-02:28:41.717 b51c Level-0 table #1055: started
+2022/09/18-02:28:41.753 b51c Level-0 table #1055: 1305674 bytes OK
+2022/09/18-02:28:41.762 b51c Delete type=0 #1050
+2022/09/18-04:28:43.544 d797 Compacting 1@1 + 1@2 files
+2022/09/18-04:28:43.560 d797 Generated table #1056@1: 865 keys, 128976 bytes
+2022/09/18-04:28:43.560 d797 Compacted 1@1 + 1@2 files => 128976 bytes
+2022/09/18-04:28:43.564 d797 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/18-04:28:43.564 d797 Delete type=2 #1055
+2022/09/18-04:28:43.565 d797 Delete type=2 #1052

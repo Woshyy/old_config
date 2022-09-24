@@ -1,0 +1,8 @@
+[2022-08-27 16:48:26.164] [sharedprocess] [info] Starting worker process with pid 21265 (type: fileWatcher, window: 1).
+[2022-08-27 16:48:41.426] [sharedprocess] [info] Getting Manifest... vscodevim.vim
+[2022-08-27 16:48:47.604] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2022-08-27 16:49:12.469] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/woshyy/.config/Code - OSS/CachedExtensionVSIXs/vscodevim.vim-1.23.2
+[2022-08-27 16:49:12.739] [sharedprocess] [info] Extracted extension to /home/woshyy/.vscode-oss/extensions/.a1153608-19f1-492b-967c-b6f73a68e471: vscodevim.vim
+[2022-08-27 16:49:12.755] [sharedprocess] [info] Renamed to /home/woshyy/.vscode-oss/extensions/vscodevim.vim-1.23.2
+[2022-08-27 16:49:12.760] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2022-08-27 16:49:12.769] [sharedprocess] [info] Extension installed successfully: vscodevim.vim

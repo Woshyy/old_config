@@ -1,0 +1,26 @@
+2022/09/18-09:56:29.244 4bd Reusing MANIFEST /home/woshyy/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/09/18-09:56:29.244 4bd Recovering log #30
+2022/09/18-09:56:29.249 4bd Level-0 table #35: started
+2022/09/18-09:56:29.260 4bd Level-0 table #35: 1104666 bytes OK
+2022/09/18-09:56:29.265 4bd Delete type=0 #30
+2022/09/18-13:56:50.411 165e Level-0 table #38: started
+2022/09/18-13:56:50.433 165e Level-0 table #38: 1111320 bytes OK
+2022/09/18-13:56:50.438 165e Delete type=0 #36
+2022/09/18-17:39:48.423 8d16 Level-0 table #40: started
+2022/09/18-17:39:48.434 8d16 Level-0 table #40: 11493 bytes OK
+2022/09/18-17:39:48.439 8d16 Delete type=0 #37
+2022/09/18-21:56:38.747 d1e1 Level-0 table #42: started
+2022/09/18-21:56:38.770 d1e1 Level-0 table #42: 1107099 bytes OK
+2022/09/18-21:56:38.774 d1e1 Delete type=0 #39
+2022/09/18-21:56:38.775 d1e1 Compacting 4@0 + 1@1 files
+2022/09/18-21:56:38.796 d1e1 Generated table #43@0: 68 keys, 2219927 bytes
+2022/09/18-21:56:38.797 d1e1 Compacted 4@0 + 1@1 files => 2219927 bytes
+2022/09/18-21:56:38.800 d1e1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/09/18-21:56:38.801 d1e1 Delete type=2 #40
+2022/09/18-21:56:38.801 d1e1 Delete type=2 #35
+2022/09/18-21:56:38.801 d1e1 Delete type=2 #38
+2022/09/18-21:56:38.801 d1e1 Delete type=2 #42
+2022/09/18-21:56:38.801 d1e1 Delete type=2 #32
+2022/09/18-22:28:00.546 d1e1 Level-0 table #45: started
+2022/09/18-22:28:00.566 d1e1 Level-0 table #45: 1103653 bytes OK
+2022/09/18-22:28:00.570 d1e1 Delete type=0 #41

@@ -1,0 +1,68 @@
+{
+   "checksum": "b97a5342e42633df2017406444d3db77",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13298647624000000",
+            "guid": "a57981f2-dc2f-470a-b284-85137a6be6b0",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/firefox/central/"
+         }, {
+            "date_added": "13298647624000000",
+            "guid": "ebd13da7-147a-49fe-830b-98b2781d909f",
+            "id": "6",
+            "name": "Homepage",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13298647624000000",
+            "guid": "687b1317-1b20-4b03-9565-26f340f21b71",
+            "id": "7",
+            "name": "Forum",
+            "type": "url",
+            "url": "http://forum.manjaro.org/"
+         }, {
+            "date_added": "13298647624000000",
+            "guid": "95a4993c-3be5-46f8-87dc-7e65dbe84ef5",
+            "id": "8",
+            "name": "Wiki",
+            "type": "url",
+            "url": "http://wiki.manjaro.org/index.php/Main_Page"
+         }, {
+            "date_added": "13298647624000000",
+            "guid": "97558487-2922-422c-a58f-6be0de8f29b8",
+            "id": "9",
+            "name": "Manjaro Discover Software",
+            "type": "url",
+            "url": "https://software.manjaro.org/"
+         } ],
+         "date_added": "13298648761355263",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13298648761355266",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13298648761355271",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

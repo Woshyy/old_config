@@ -1,0 +1,8 @@
+2022/06/08-11:04:53.687 601 Creating DB /home/woshyy/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/06/08-11:04:53.697 601 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/08-11:06:02.333 601 Level-0 table #5: started
+2022/06/08-11:06:02.403 601 Level-0 table #5: 1158898 bytes OK
+2022/06/08-11:06:02.408 601 Delete type=0 #3
+2022/06/08-11:15:37.182 888 Level-0 table #7: started
+2022/06/08-11:15:37.241 888 Level-0 table #7: 1113509 bytes OK
+2022/06/08-11:15:37.246 888 Delete type=0 #4

@@ -1,0 +1,7 @@
+2022/07/14-18:45:33.455 59cb Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/14-18:45:33.455 59cb Recovering log #3
+2022/07/14-18:45:33.455 59cb Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2022/07/14-18:46:11.687 59cb Level-0 table #5: started
+2022/07/14-18:46:11.691 59cb Level-0 table #5: 826 bytes OK
+2022/07/14-18:46:11.694 59cb Delete type=0 #3
+2022/07/14-18:46:11.695 59cb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

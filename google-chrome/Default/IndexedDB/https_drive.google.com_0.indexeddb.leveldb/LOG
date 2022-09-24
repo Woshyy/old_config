@@ -1,0 +1,12 @@
+2022/09/24-19:29:17.266 2e81 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/24-19:29:17.266 2e81 Recovering log #14
+2022/09/24-19:29:17.278 2e81 Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000014.log 
+2022/09/24-19:29:18.296 2e81 Compacting 1@1 + 2@2 files
+2022/09/24-19:29:18.330 2e81 Generated table #18@1: 7957 keys, 2130583 bytes
+2022/09/24-19:29:18.356 2e81 Generated table #19@1: 2054 keys, 2137308 bytes
+2022/09/24-19:29:18.366 2e81 Generated table #20@1: 4859 keys, 481625 bytes
+2022/09/24-19:29:18.366 2e81 Compacted 1@1 + 2@2 files => 4749516 bytes
+2022/09/24-19:29:18.373 2e81 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/09/24-19:29:18.373 2e81 Delete type=2 #16
+2022/09/24-19:29:18.373 2e81 Delete type=2 #15
+2022/09/24-19:29:18.373 2e81 Delete type=2 #13

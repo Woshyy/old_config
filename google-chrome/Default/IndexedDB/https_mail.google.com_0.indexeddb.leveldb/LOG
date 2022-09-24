@@ -1,0 +1,6 @@
+2022/09/17-23:05:42.394 7b21 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/17-23:05:42.394 7b21 Recovering log #7
+2022/09/17-23:05:42.411 7b21 Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2022/09/17-23:05:57.914 7cd3 Level-0 table #12: started
+2022/09/17-23:05:57.973 7cd3 Level-0 table #12: 1983963 bytes OK
+2022/09/17-23:05:57.979 7cd3 Delete type=0 #7

@@ -1,0 +1,15 @@
+2022/09/07-09:51:48.465 1d8c Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_euc-word-edit.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/07-09:51:48.466 1d8c Recovering log #4
+2022/09/07-09:51:48.469 1d8c Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_euc-word-edit.officeapps.live.com_0.indexeddb.leveldb/000004.log 
+2022/09/08-16:11:10.972 2269 Level-0 table #8: started
+2022/09/08-16:11:10.979 2269 Level-0 table #8: 102129 bytes OK
+2022/09/08-16:11:10.983 2269 Delete type=0 #4
+2022/09/08-16:11:10.984 2269 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/08-16:11:10.984 2269 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01'\x00f\x00a\x009\x00f\x00c\x00d\x000\x00f\x00-\x009\x001\x007\x00c\x00-\x004\x00f\x000\x005\x00-\x008\x00a\x007\x003\x00-\x006\x00b\x007\x006\x006\x003\x005\x000\x00e\x003\x00e\x00e\x00.\x001\x006' @ 91 : 1
+2022/09/08-16:11:10.984 2269 Compacting 1@1 + 1@2 files
+2022/09/08-16:11:10.989 2269 Generated table #9@1: 34 keys, 2532 bytes
+2022/09/08-16:11:10.989 2269 Compacted 1@1 + 1@2 files => 2532 bytes
+2022/09/08-16:11:10.993 2269 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/08-16:11:10.993 2269 Delete type=2 #5
+2022/09/08-16:11:10.993 2269 Delete type=2 #8
+2022/09/08-16:11:10.994 2269 Manual compaction at level-1 from '\x00\x01\x01\x02\x01'\x00f\x00a\x009\x00f\x00c\x00d\x000\x00f\x00-\x009\x001\x007\x00c\x00-\x004\x00f\x000\x005\x00-\x008\x00a\x007\x003\x00-\x006\x00b\x007\x006\x006\x003\x005\x000\x00e\x003\x00e\x00e\x00.\x001\x006' @ 91 : 1 .. (end); will stop at (end)

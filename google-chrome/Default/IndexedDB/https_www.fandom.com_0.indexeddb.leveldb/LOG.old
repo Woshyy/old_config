@@ -1,0 +1,15 @@
+2022/06/18-17:34:49.916 175a Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/18-17:34:49.916 175a Recovering log #7
+2022/06/18-17:34:49.916 175a Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000007.log 
+2022/06/18-18:24:19.950 20e5 Level-0 table #12: started
+2022/06/18-18:24:19.953 20e5 Level-0 table #12: 4287 bytes OK
+2022/06/18-18:24:19.957 20e5 Delete type=0 #7
+2022/06/18-18:24:19.958 20e5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/06/18-18:24:19.958 20e5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x03\x00\x00\x00\x00\x00\x00,@' @ 440 : 1
+2022/06/18-18:24:19.958 20e5 Compacting 1@1 + 1@2 files
+2022/06/18-18:24:19.962 20e5 Generated table #13@1: 95 keys, 3277 bytes
+2022/06/18-18:24:19.962 20e5 Compacted 1@1 + 1@2 files => 3277 bytes
+2022/06/18-18:24:19.966 20e5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/18-18:24:19.966 20e5 Delete type=2 #12
+2022/06/18-18:24:19.966 20e5 Delete type=2 #9
+2022/06/18-18:24:19.966 20e5 Manual compaction at level-1 from '\x00\x01\x03\x02\x03\x00\x00\x00\x00\x00\x00,@' @ 440 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/06/17-07:24:39.909 852 Creating DB /home/woshyy/.config/google-chrome/Default/IndexedDB/https_hotpot.ai_0.indexeddb.leveldb since it was missing.
+2022/06/17-07:24:39.919 852 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_hotpot.ai_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/17-07:33:22.163 852 Level-0 table #5: started
+2022/06/17-07:33:22.166 852 Level-0 table #5: 1730 bytes OK
+2022/06/17-07:33:22.171 852 Delete type=0 #3
+2022/06/17-07:33:22.171 852 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
